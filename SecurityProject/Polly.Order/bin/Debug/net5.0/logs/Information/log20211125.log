@@ -1,0 +1,876 @@
+
+
+Date：2021-11-25 14:28:09.167
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:28:09.270
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:28:09.273
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:28:09.275
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:28:11.431
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:11.944
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger - - - 301 0 - 518.6203ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:11.983
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.291
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui.css - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.293
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 309.5997ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.313
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-standalone-preset.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.313
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-bundle.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.332
+LogLevel：Information
+Message：Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.332
+LogLevel：Information
+Message：Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.333
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui.css - - - 200 142933 text/css 41.4887ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.333
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 19.9034ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.333
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.336
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 3.4313ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.345
+LogLevel：Information
+Message：Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.346
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 33.2671ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.785
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.827
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/favicon-32x32.png - -
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.828
+LogLevel：Information
+Message：Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.828
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/favicon-32x32.png - - - 200 628 image/png 0.6526ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:12.932
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 146.6601ms
+--------------------------------------------------
+
+Date：2021-11-25 14:28:34.798
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:28:34.822
+LogLevel：Information
+Message：Executing endpoint '"405 HTTP Method Not Supported"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:34.823
+LogLevel：Information
+Message：Executed endpoint '"405 HTTP Method Not Supported"'
+--------------------------------------------------
+
+Date：2021-11-25 14:28:34.823
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 405 0 - 24.3529ms
+--------------------------------------------------
+
+Date：2021-11-25 14:29:34.656
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:29:34.750
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:29:34.752
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:29:34.755
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:29:36.705
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:29:37.537
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 836.5870ms
+--------------------------------------------------
+
+Date：2021-11-25 14:29:37.569
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:29:37.573
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 4.1808ms
+--------------------------------------------------
+
+Date：2021-11-25 14:29:37.965
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:29:38.111
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 143.2452ms
+--------------------------------------------------
+
+Date：2021-11-25 14:29:49.751
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:29:49.775
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:29:49.828
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(System.String)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:32:51.072
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:32:51.150
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:32:51.154
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:32:51.157
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:32:53.029
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:32:53.780
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 754.6838ms
+--------------------------------------------------
+
+Date：2021-11-25 14:32:53.888
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:32:53.898
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 9.1822ms
+--------------------------------------------------
+
+Date：2021-11-25 14:32:54.146
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:32:54.263
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 117.4757ms
+--------------------------------------------------
+
+Date：2021-11-25 14:33:17.355
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:33:17.378
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:33:17.396
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(System.String)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:33:56.481
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:33:56.586
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:33:56.589
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:33:56.592
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:33:58.660
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:33:59.347
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 693.9053ms
+--------------------------------------------------
+
+Date：2021-11-25 14:33:59.368
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:33:59.371
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 3.6341ms
+--------------------------------------------------
+
+Date：2021-11-25 14:33:59.578
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:33:59.700
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 121.7081ms
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.487
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.510
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.532
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(System.String)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.559
+LogLevel：Information
+Message：Executing "BadRequestObjectResult", writing value of type '"Microsoft.AspNetCore.Mvc.ValidationProblemDetails"'.
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.574
+LogLevel：Information
+Message：Executed action "Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)" in 35.2584ms
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.574
+LogLevel：Information
+Message：Executed endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:34:09.574
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 400 - application/problem+json;+charset=utf-8 87.1481ms
+--------------------------------------------------
+
+Date：2021-11-25 14:35:07.511
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:35:07.599
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:35:07.609
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:35:07.611
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:35:09.719
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:35:10.571
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 856.6349ms
+--------------------------------------------------
+
+Date：2021-11-25 14:35:10.640
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:35:10.643
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 3.2610ms
+--------------------------------------------------
+
+Date：2021-11-25 14:35:10.876
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:35:11.000
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 123.9901ms
+--------------------------------------------------
+
+Date：2021-11-25 14:35:16.581
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:35:16.604
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:35:16.622
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(System.String)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:43:03.912
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:43:03.983
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:43:03.985
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:43:03.986
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:43:06.088
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:43:06.861
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 776.9083ms
+--------------------------------------------------
+
+Date：2021-11-25 14:43:06.894
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:43:06.898
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 3.7157ms
+--------------------------------------------------
+
+Date：2021-11-25 14:43:07.175
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:43:07.294
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.8902ms
+--------------------------------------------------
+
+Date：2021-11-25 14:43:18.196
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:43:18.222
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:43:18.242
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(Polly.Order.Controllers.ReceiveDto)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:43:38.286
+LogLevel：Information
+Message：Executing ContentResult with HTTP Response ContentType of "text/plain; charset=utf-8"
+--------------------------------------------------
+
+Date：2021-11-25 14:43:42.768
+LogLevel：Information
+Message：Executed action "Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)" in 24519.5352ms
+--------------------------------------------------
+
+Date：2021-11-25 14:43:42.768
+LogLevel：Information
+Message：Executed endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:43:42.768
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 200 7 text/plain;+charset=utf-8 24572.0323ms
+--------------------------------------------------
+
+Date：2021-11-25 14:47:17.772
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:47:17.847
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:47:17.849
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:47:17.851
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:47:19.855
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:47:20.790
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 939.8263ms
+--------------------------------------------------
+
+Date：2021-11-25 14:47:20.862
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:47:20.867
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 4.1582ms
+--------------------------------------------------
+
+Date：2021-11-25 14:47:21.107
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:47:21.209
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 102.1790ms
+--------------------------------------------------
+
+Date：2021-11-25 14:48:50.456
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:48:50.524
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:48:50.527
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:48:50.529
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:48:52.552
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:48:53.275
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 726.8281ms
+--------------------------------------------------
+
+Date：2021-11-25 14:48:53.294
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:48:53.298
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 3.9152ms
+--------------------------------------------------
+
+Date：2021-11-25 14:48:53.527
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:48:53.653
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 125.4030ms
+--------------------------------------------------
+
+Date：2021-11-25 14:49:01.650
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:49:01.680
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:49:01.701
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(Polly.Order.Controllers.ReceiveDto)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:49:30.365
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:49:30.430
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:49:30.432
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:49:30.434
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:49:32.426
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:49:33.248
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 828.9947ms
+--------------------------------------------------
+
+Date：2021-11-25 14:49:33.269
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:49:33.274
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 4.6662ms
+--------------------------------------------------
+
+Date：2021-11-25 14:49:33.508
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:49:33.633
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.5989ms
+--------------------------------------------------
+
+Date：2021-11-25 14:49:40.583
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:49:40.609
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:49:40.630
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(Polly.Order.Controllers.ReceiveDto)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:49:41.662
+LogLevel：Information
+Message：Executing ContentResult with HTTP Response ContentType of "text/plain; charset=utf-8"
+--------------------------------------------------
+
+Date：2021-11-25 14:49:41.666
+LogLevel：Information
+Message：Executed action "Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)" in 1032.5668ms
+--------------------------------------------------
+
+Date：2021-11-25 14:49:41.667
+LogLevel：Information
+Message：Executed endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:49:41.667
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 200 378 text/plain;+charset=utf-8 1083.5854ms
+--------------------------------------------------
+
+Date：2021-11-25 14:51:56.124
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 14:51:56.198
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 14:51:56.200
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 14:51:56.202
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 14:51:58.037
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 14:51:58.845
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 811.6170ms
+--------------------------------------------------
+
+Date：2021-11-25 14:51:58.926
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 14:51:58.932
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 5.2908ms
+--------------------------------------------------
+
+Date：2021-11-25 14:51:59.228
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 14:51:59.348
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 120.6618ms
+--------------------------------------------------
+
+Date：2021-11-25 14:52:07.311
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 14:52:07.340
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:52:07.359
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(Polly.Order.Controllers.ReceiveDto)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 14:52:16.710
+LogLevel：Information
+Message：Executing ContentResult with HTTP Response ContentType of "text/plain; charset=utf-8"
+--------------------------------------------------
+
+Date：2021-11-25 14:52:18.491
+LogLevel：Information
+Message：Executed action "Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)" in 11128.1827ms
+--------------------------------------------------
+
+Date：2021-11-25 14:52:18.491
+LogLevel：Information
+Message：Executed endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 14:52:18.491
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 200 378 text/plain;+charset=utf-8 11179.9747ms
+--------------------------------------------------
+
+Date：2021-11-25 15:31:35.167
+LogLevel：Information
+Message：Now listening on: "http://localhost:5002"
+--------------------------------------------------
+
+Date：2021-11-25 15:31:35.217
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+--------------------------------------------------
+
+Date：2021-11-25 15:31:35.219
+LogLevel：Information
+Message：Hosting environment: "Development"
+--------------------------------------------------
+
+Date：2021-11-25 15:31:35.220
+LogLevel：Information
+Message：Content root path: "D:\Github项目\SecurityPro\SecurityProject\Polly.Order"
+--------------------------------------------------
+
+Date：2021-11-25 15:31:37.068
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+--------------------------------------------------
+
+Date：2021-11-25 15:31:37.764
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 698.9206ms
+--------------------------------------------------
+
+Date：2021-11-25 15:31:37.800
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+--------------------------------------------------
+
+Date：2021-11-25 15:31:37.807
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 6.6936ms
+--------------------------------------------------
+
+Date：2021-11-25 15:31:38.219
+LogLevel：Information
+Message：Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+--------------------------------------------------
+
+Date：2021-11-25 15:31:38.407
+LogLevel：Information
+Message：Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 187.7473ms
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.508
+LogLevel：Information
+Message：Request starting HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.532
+LogLevel：Information
+Message：Executing endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.556
+LogLevel：Information
+Message：Route matched with "{action = \"ReceiveMsg\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult ReceiveMsg(Polly.Order.ViewModels.ReceiveDto)" on controller "Polly.Order.Controllers.HomeController" ("Polly.Order").
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.835
+LogLevel：Information
+Message：Executing ContentResult with HTTP Response ContentType of "text/plain; charset=utf-8"
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.841
+LogLevel：Information
+Message：Executed action "Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)" in 280.3028ms
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.841
+LogLevel：Information
+Message：Executed endpoint '"Polly.Order.Controllers.HomeController.ReceiveMsg (Polly.Order)"'
+--------------------------------------------------
+
+Date：2021-11-25 15:32:29.841
+LogLevel：Information
+Message：Request finished HTTP/1.1 POST http://localhost:5002/api/Home/ReceiveMsg application/json 376 - 200 378 text/plain;+charset=utf-8 333.4766ms
+--------------------------------------------------

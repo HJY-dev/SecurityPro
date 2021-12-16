@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d1e4c8f-483e-466a-93f7-a294f95c2ebc": {
+      "ProjectGuid": "4d1e4c8f-483e-466a-93f7-a294f95c2ebc",
+      "DisplayName": "Polly.Order",
+      "ColorIndex": 0
+    },
+    "8fe509ba-6824-4217-908c-b3329e0b0532": {
+      "ProjectGuid": "8fe509ba-6824-4217-908c-b3329e0b0532",
+      "DisplayName": "Polly.Customer",
+      "ColorIndex": 1
+    },
+    "18357d68-590c-4fa0-8d12-839e91e2ea80": {
+      "ProjectGuid": "18357d68-590c-4fa0-8d12-839e91e2ea80",
+      "DisplayName": "Common",
+      "ColorIndex": 2
+    },
+    "886df467-7e64-4698-a7d0-b75361bbe24d": {
+      "ProjectGuid": "886df467-7e64-4698-a7d0-b75361bbe24d",
+      "DisplayName": "RateLimit",
+      "ColorIndex": 3
+    },
+    "0b1ee07f-55cd-4f62-96bf-2720529590a6": {
+      "ProjectGuid": "0b1ee07f-55cd-4f62-96bf-2720529590a6",
+      "DisplayName": "PasswordCheck",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
